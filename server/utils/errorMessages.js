@@ -1,0 +1,1 @@
+const SERVER_ERROR_TEXT = 'На сервере произошла ошибка';

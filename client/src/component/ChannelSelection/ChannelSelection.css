@@ -1,0 +1,19 @@
+.channels {
+    display: flex;
+    gap: 14px;
+}
+.selected-channels {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+.selected-channel__title {
+    margin: 0;
+}
+.selected-channel {
+    box-sizing: border-box;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 14px;
+}

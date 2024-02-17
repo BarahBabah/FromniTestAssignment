@@ -1,0 +1,22 @@
+.channel-button__delete {
+    background: url('./../../assets/cancel-close-cross.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    margin: 0;
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+
+.channel-button__input {
+    padding: 8px;
+}
+
+.channel-button__select {
+    margin-bottom: 10px;
+}
+
+.channel-button__url-input {
+    margin-bottom: 10px;
+}
